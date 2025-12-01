@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+myenv/
+.env
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Project specific
+error_log.txt
+run_log.txt
+run_log_2.txt
+envs.txt
+envs_cmd.txt
+
+# Large files (>100MB)
+final_ultimate_colorizer.h5
